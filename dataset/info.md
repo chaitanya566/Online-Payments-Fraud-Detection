@@ -1,0 +1,1 @@
+## Download the dataset from [kaggle](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data) provided by [RUPAK ROY](https://www.kaggle.com/rupakroy) and place it here and rename it to **"Online_fraud.csv"**
